@@ -2,8 +2,9 @@
   * [What is badge add-on v1.69bis standard?](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/)
   * Design files are in [branch v1.69bis](https://github.com/OSHPark/badgelife_dev_board/tree/v169bis)
   * Full version: [badgelife_v169bis_proto_v1.kicad_pcb](https://github.com/OSHPark/badgelife_dev_board/blob/v169bis/badgelife_v169bis_proto_v1.kicad_pcb)
+    * [OSH Park shared project](https://oshpark.com/projects/kT4eHBn0)
   * Compact version: [badgelife_v169bis_proto_v2.kicad_pcb](https://github.com/OSHPark/badgelife_dev_board/blob/v169bis/badgelife_v169bis_proto_v2.kicad_pcb)
-    * OSH Park shared project: https://oshpark.com/projects/kT4eHBn0
+    * [OSH Park shared project](https://oshpark.com/projects/2MfjzgRb)
 
 ## OHS18 badge add-on dev board
 
