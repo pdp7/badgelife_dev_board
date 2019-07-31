@@ -1,3 +1,7 @@
+## For Defcon 27 SAO v1.69bis see:
+  * Design files are in branch v1.69bis: https://github.com/OSHPark/badgelife_dev_board/tree/v169bis
+  * OSH Park shared project: https://oshpark.com/projects/kT4eHBn0
+
 ## OHS18 badge add-on dev board
 
 * [Open Hardware Summit 2018 badge](http://oshwabadge2018.github.io) add-on prototype dev board
